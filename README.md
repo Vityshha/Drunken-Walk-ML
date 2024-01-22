@@ -15,7 +15,7 @@
 
 ![ris1.png](files%2Fris1.png)
 
-По данной работе я писал ([Диплом](https://github.com/Vityshha/Drunken-Walk-ML/blob/main/files/Диплом%20Якунин.docx)). 
+По данной работе я писал [диплом](https://github.com/Vityshha/Drunken-Walk-ML/blob/main/files/Диплом%20Якунин.docx). 
 
 Метрики: 
 
